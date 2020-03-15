@@ -993,7 +993,7 @@ td {
       }
     
       .main {
-        background: #495057;
+        background: #343a40;
       }
     
       body {
@@ -1001,14 +1001,14 @@ td {
       }
     
       body {
-        color: #f1f3f5;
+        color: #f8f9fa;
       }
     
       a {
-        color: #e9ecef;
+        color: #f8f9fa;
       }
     
       a:hover {
-        color: #4dabf7;
+        color: #339af0;
       }
     
