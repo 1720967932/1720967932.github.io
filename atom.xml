@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://2293736867.github.io</id>
     <title>氷泠&apos;s blog</title>
-    <updated>2020-03-15T08:27:46.532Z</updated>
+    <updated>2020-03-15T09:11:46.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://2293736867.github.io"/>
     <link rel="self" href="https://2293736867.github.io/atom.xml"/>
@@ -11,29 +11,16 @@
     <icon>https://2293736867.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 氷泠&apos;s blog</rights>
     <entry>
-        <title type="html"><![CDATA[123]]></title>
+        <title type="html"><![CDATA[孔睿姐姐看一下这个]]></title>
         <id>https://2293736867.github.io/post/123/</id>
         <link href="https://2293736867.github.io/post/123/">
         </link>
         <updated>2020-03-15T07:18:25.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="1skdfflsd">1skdfflsd</h1>
-<h1 id="232ksdkfflsd">232ksdkfflsd</h1>
-<h2 id="213123">213123</h2>
-<h2 id="123213">123213</h2>
-<table>
-<thead>
-<tr>
-<th>213</th>
-<th>2134</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>231</td>
-<td>sdf</td>
-</tr>
-</tbody>
-</table>
+        <content type="html"><![CDATA[<h1 id="1-第一篇博客">1 第一篇博客</h1>
+<p>我的个人博客网站今天建成了，用的是githubpages，第一次嘛，老实说我自己都觉得有点简单。<br>
+好了不废话了进入正题。😀</p>
+<h1 id="2-讲的是啥">2 讲的是啥</h1>
+<p>第一篇博客我也想不到是写给你的。</p>
 ]]></content>
     </entry>
 </feed>
